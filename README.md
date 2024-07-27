@@ -33,8 +33,8 @@ This repository contains Python implementations of fundamental data structures a
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/dsa-python.git
-    cd dsa-python
+    git clone https://github.com/TonyBhaskar/DSA-in-Python.git
+    cd DSA-in-python
     ```
 
 2. **Run the Algorithms**:
